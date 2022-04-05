@@ -1,0 +1,16 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\bin\Debug\net5.0\novo.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\bin\Debug\net5.0\novo.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\bin\Debug\net5.0\novo.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\bin\Debug\net5.0\novo.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\bin\Debug\net5.0\novo.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\bin\Debug\net5.0\novo.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\obj\Debug\net5.0\novo.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\obj\Debug\net5.0\novo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\obj\Debug\net5.0\novo.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\obj\Debug\net5.0\novo.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\obj\Debug\net5.0\novo.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\obj\Debug\net5.0\novo.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\obj\Debug\net5.0\refint\novo.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\obj\Debug\net5.0\novo.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\obj\Debug\net5.0\novo.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\novo\obj\Debug\net5.0\ref\novo.dll
